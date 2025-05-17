@@ -1,0 +1,19 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.isocalendar.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_isocalendar: yes
