@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     # environment: 
     #   name: production
-    # permissions:
-    #   contents: write
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     steps:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
