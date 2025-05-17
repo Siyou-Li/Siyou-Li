@@ -6,15 +6,13 @@ on:
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    # environment: 
-    #   name: production
-    permissions:
-      contents: write
-      pull-requests: write
-      repository-projects: write
+    name: github-metrics
     steps:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
