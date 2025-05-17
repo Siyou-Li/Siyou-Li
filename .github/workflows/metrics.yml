@@ -18,6 +18,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: github-metrics/isocalendar.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_isocalendar: yes
