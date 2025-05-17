@@ -4,4 +4,6 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" />
 </picture> -->
 
-<img src="github-metrics/isocalendar.svg" alt="Metrics" width="100%">
+<td align="center">
+<img src="github-metrics/isocalendar.svg" alt="Metrics" width="400"/>
+</td>
