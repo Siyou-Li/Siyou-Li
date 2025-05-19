@@ -1,6 +1,7 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
   <td width="50%">
+  <img src="./assets/rp.svg" >
   👋Hi, I'm a Ph.D. student at the Computational Linguistics Lab at Queen Mary University of London (QMUL), focusing on Multimodal Large Language Models (MLLMs). 
 
   🎯My research explores innovative ways to enhance interactions between language and Vision, aiming to advance the capabilities of AI in understanding and generating multimodal content.
