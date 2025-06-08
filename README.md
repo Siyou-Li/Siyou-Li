@@ -10,5 +10,5 @@ My research explores innovative ways to enhance interactions between language an
 
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/siyouli)
-[![Zhihu](https://img.shields.io/badge/--Zhihu?label=Zhihu&logo=Zhihu&style=social)](https://www.zhihu.com/people/redflashing)
+[![Zhihu](https://img.shields.io/badge/--Zhihu?label=Zhihu&logo=Zhihu&style=social)](https://www.zhihu.com/people/siyouli)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Siyou-Li.Siyou-Li&left_color=blue&right_color=blue&left_text=Visitors)
