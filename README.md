@@ -8,3 +8,7 @@ My research explores innovative ways to enhance interactions between language an
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rp_night.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/rp.svg" /><img src="./assets/rp.svg"  width="60%"/></picture><img src="./github-metrics/isocalendar.svg" width="40%">
 </div>
 
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/siyouli)
+[![Zhihu](https://img.shields.io/badge/--Zhihu?label=Zhihu&logo=Zhihu&style=social)](https://www.zhihu.com/people/redflashing)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Siyou-Li.Siyou-Li)
