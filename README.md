@@ -9,6 +9,7 @@ My research explores innovative ways to enhance interactions between language an
 </div>
 
 [![](https://img.shields.io/badge/GoogleScholar-SiyouLi-grey?style=flat-square&labelColor=0A66C2&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=S9P_T4YAAAAJ&hl=en) &ensp;
-[![](https://img.shields.io/badge/LinkedIn-SiyouLi-grey?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyouli/) &ensp;
-[![](https://img.shields.io/badge/LinkedIn-SiyouLi-grey?style=flat-square&labelColor=0A66C2&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/redflashing) &ensp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-SiyouLi-grey?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyouli/) &ensp;
+[![Zhihu](https://img.shields.io/badge/LinkedIn-SiyouLi-grey?style=flat-square&labelColor=0A66C2&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/redflashing) &ensp;
+[![](https://img.shields.io/badge/arXiv-SiyouLi-grey?style=flat-square&labelColor=B31B1B&logo=arxiv&logoColor=white)](http://arxiv.org/a/li_s_22) &ensp;
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Siyou-Li.Siyou-Li&left_color=blue&right_color=blue&left_text=Visitors) -->
